@@ -1,0 +1,16 @@
+{
+  "name": "blindReturns",
+  "version": "1.0.0",
+  "description": "",
+  "main": "blindReturns.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "selenium-webdriver": "^4.0.0-alpha.7"
+  }
+}
