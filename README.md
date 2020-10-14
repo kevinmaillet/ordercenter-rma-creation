@@ -1,6 +1,6 @@
 # ordercenter rma creation
 
-a browser automation to handle creation of RMAs in SFCC ordercenter OMS using selenium webdriver.
+a browser automation to handle creation of Return Merchandise Authorization's in SFCC ordercenter OMS using selenium webdriver.
 
 1. npm install
 2. make sure chromedriver is set up on your local machine.
